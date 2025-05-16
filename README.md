@@ -1,9 +1,9 @@
-## No need to buy apps these days
-* See the source
-* Edit it
-* Be in control
+# 🚀 See the Source  
+> ### Edit It
+>✨ Be in Control  
+>---
 
-## I’m looking to join/create a noob code club/circle 
+### I’m looking to join/create a noob code club/circle 
 
 ### Choose a common project: 
 * Everyone works on the same idea or concept.
