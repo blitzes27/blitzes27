@@ -18,6 +18,7 @@ If you are interested in the Coding Circle project or want to collaborate, feel 
 You can contact me via:   
 - LinkedIn: [Meron Tedros](https://www.linkedin.com/in/meron-tedros-a39353326/)
 - Email: github.tedros@outlook.com
+- Discord: [Code-Club Server](https://discord.gg/eQtHVCeevW)
 <!--
 **blitzes27/blitzes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
